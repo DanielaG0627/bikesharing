@@ -25,6 +25,6 @@ We can seet that the busiest times are weekdays between 6:00AM - 9:00AM and 4:00
 
 Overall, NYC Citi Bikes are predominantly  ridden by subscriber males. 
 
-Two additional visualizations I would use in my analysis would be a visual of the monthly revenue of the bikesharing service in NYC and the demographics of the potential Des Moines users.
+Two additional visualizations I would use in my analysis would be a visual of the monthly revenue of the bikesharing service in NYC, and the demographics of the potential Des Moines users.
 
 [link to dashboard](https://public.tableau.com/app/profile/daniela.gonzalez3400/viz/NYCCitiBikeAnalysisChallenge_16282831817670/CheckoutTimeDetails?publish=yes)
