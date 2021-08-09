@@ -27,4 +27,4 @@ Overall, NYC Citi Bikes are predominantly  ridden by subscriber males.
 
 Two additional visualizations I would use in my analysis would be a visual of the monthly revenue of the bikesharing service in NYC, and the demographics of the potential Des Moines users.
 
-[link to dashboard](https://public.tableau.com/app/profile/daniela.gonzalez3400/viz/NYCCitiBikeAnalysisChallenge_16282831817670/CheckoutTimeDetails?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/daniela.gonzalez3400/viz/NYCCitiBikeAnalysisChallenge_16282831817670/NYCCitiBikeAnalysis)
